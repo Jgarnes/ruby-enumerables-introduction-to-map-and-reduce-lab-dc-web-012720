@@ -1,2 +1,4 @@
 # My Code here....
-map_to_negativize.map(source_array)
+def map_to_negativize.map(source_array)
+end 
+map_to_negativize
