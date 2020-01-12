@@ -50,3 +50,6 @@ end
 
 def rdeuce_to_all_true(source_array)
   
+  
+  
+end   
